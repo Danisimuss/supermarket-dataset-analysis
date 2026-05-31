@@ -1,4 +1,4 @@
-# supermarket-analysis
+# supermarket-dataset-analysis
 Анализ датасета и построение дашборда сети супермаркетов из Kaggle с помощью Excel (сводные таблицы, срезы). Ссылка на датасет: https://www.kaggle.com/datasets/theharsh2606/total-supermarket-sales-dataset
 
 Сводные таблицы: выручка по категориям, тип клиента + пол, выручка по странам / городам
