@@ -1,2 +1,7 @@
 # supermarket-analysis
-Анализ датасета сети супермаркетов из Kaggle. Ссылка: https://www.kaggle.com/datasets/theharsh2606/total-supermarket-sales-dataset
+Анализ датасета и построение дашборда сети супермаркетов из Kaggle с помощью Excel (сводные таблицы, срезы). Ссылка: https://www.kaggle.com/datasets/theharsh2606/total-supermarket-sales-dataset
+
+Категория Electronics приносит наибольшую выручку
+Члены программы лояльности (Member) тратят меньше обычных покупателей
+Страна Индия — самый крупный рынок по выручке
+Способ оплаты Наличные приносит больше всего денег.
